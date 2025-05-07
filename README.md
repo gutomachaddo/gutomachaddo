@@ -1,7 +1,4 @@
 # 💫 About Me:
-
-![snake gif](https://github.com/gutomachaddo/gutomachaddo/blob/output/github-contribution-grid-snake.gif)
-
 👋 Hi there! I'm Augusto Machado! <br>💻 I'm a passionate student of  Systems Analysis and Development at IENH college <br>🎓 I'm currently exploring the exciting world of technology and building cool projects! Feel free to check out my repositories  👇
 
 
@@ -26,5 +23,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gutomachaddo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![snake gif](https://github.com/gutomachaddo/gutomachaddo/blob/output/github-contribution-grid-snake.gif)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
