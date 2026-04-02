@@ -17,4 +17,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=gutomachaddo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake](https://github.com/gutomachaddo/gutomachaddo/blob/output/github-contribution-grid-snake-dark.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/seu-user/seu-user/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/seu-user/seu-user/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="snake gif" src="https://github.com/seu-user/seu-user/blob/output/github-contribution-grid-snake.svg" />
+</picture>
