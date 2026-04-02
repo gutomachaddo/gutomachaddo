@@ -19,7 +19,7 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/seu-user/seu-user/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/seu-user/seu-user/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="snake gif" src="https://github.com/seu-user/seu-user/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gutomachaddo/gutomachaddo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gutmachaddo/gutomachaddo/output/github-contribution-grid-snake.svg" />
+  <img alt="snake gif" src="https://raw.githubusercontent.com/gutomachaddo/gutomachaddo/output/github-contribution-grid-snake.svg" />
 </picture>
