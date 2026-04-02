@@ -17,4 +17,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=gutomachaddo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/gutomachaddo/gutomachaddo/blob/output/github-contribution-grid-snake.gif)
+![snake](https://github.com/gutomachaddo/gutomachaddo/blob/output/github-contribution-grid-snake-dark.svg)
